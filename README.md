@@ -58,8 +58,6 @@ The following features and enhancements are planned for the E-Extension Platform
 
 ## Detailed instructions
 
-Here's the content converted to Markdown format:
-
 ### [Information Architecture and Content Strategy](development/content_strategy.md)
 
 a. Review the existing content on the website (https://www.agriculture.gov.zm/integratedportal/) and identify the main content categories, such as agronomic practices, agro-meteorological bulletins, crop calendars, audio scripts, and video scripts.
@@ -70,7 +68,7 @@ c. Define the content types and formats for each category, taking into account t
 
 d. Establish a content management workflow that outlines the processes for content creation, review, approval, and publication. Provide recommendations for regular content updates and maintenance.
 
-# [Visual Design](development/visual_design.md)
+### [Visual Design](development/visual_design.md)
 
 a. Create a visually appealing and user-friendly design for the website that aligns with the branding of the Ministry of Agriculture and considers the preferences of the target audience.
 
